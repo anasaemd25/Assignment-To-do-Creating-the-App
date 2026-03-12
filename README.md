@@ -11,7 +11,7 @@ CSS (Bootstrap)
 JavaScript
 
 Installation & Use
-git clone https://github.com/anasaemd25/Assignment-To-do-Creating-the-App.git
+git clone https://github.com/anasaemd25/Todo-app-part-1-creating-the-app
 cd Assignment-To-do-Creating-the-App/front-end/todo
 
 # Open index.html in your browser (double-click or use a live server)
